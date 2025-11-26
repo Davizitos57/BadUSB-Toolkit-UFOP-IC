@@ -23,7 +23,7 @@ Theo Silva Lins (DECSI — UFOP)
 Davi Abner Almeida Santiago (UFOP)
 
 **Colaboradores do Projeto:**  
-Ithan Amaral de Paula (UFOP)  
+Íthan de Paula Amaral (UFOP)  
 Túlio Vilela Lopes (UFOP)
 
 ---
